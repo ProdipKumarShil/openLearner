@@ -26,6 +26,20 @@
         </div>
       </nav>
     </div>
+
+    <!-- img and banner -->
+    <div class="bannerAndImg myWidth">
+      <div class="textBanner">
+        <p class="wlc">Welcome</p>
+        <p class="header">Best Learning Opportunities</p>
+        <p class="para">Our goal is to make online education work for everyone</p>
+        <div class="buttons">
+          <button class="primaryBtn">Join US</button>
+          <button class="secondaryBtn">Learn More</button>
+        </div>
+      </div>
+      <img src="./imgs/none.png" alt="">
+    </div>
   </section>
   <!-- Banner and nav -->
 

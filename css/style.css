@@ -66,3 +66,42 @@ nav ul li {
   font-size: 14px;
   font-weight: 700;
 }
+
+.bannerAndImg{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.wlc{
+  color: #96BB7C;
+  font-size: 16px;
+  font-weight: 700;
+}
+.header{
+  color: #252B42;
+  font-size: 58px;
+  font-weight: 700;
+}
+.para{
+  font-size: 20px;
+  color: #737373;
+  font-weight: 400;
+}
+.buttons{
+  display: flex;
+  gap: 10px;
+}
+.secondaryBtn{
+  padding: 15px 25px;
+  border: 1px solid #96BB7C;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #96BB7C;
+  background-color: Transparent;
+}
+.textBanner{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
